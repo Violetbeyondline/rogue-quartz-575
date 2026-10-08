@@ -119,4 +119,4 @@ Windows 10/11、macOS 12+ 且有 4 GB 内存即可 — 详见上方要求。
 - 💡 **Suggest** ideas with the `enhancement` label
 - 📣 **Share** it with someone who needs it
 
-*rogue-quartz-575 · 更新于 2026-10-07 · 基于 MIT 许可证共享*
+*rogue-quartz-575 · 更新于 2026-10-08 · 基于 MIT 许可证共享*
